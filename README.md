@@ -9,7 +9,7 @@
 ## About Me
 ![Profile Views](https://komarev.com/ghpvc/?username=alanmmeachum&color=blue)
 
-I am a Full-Stack Software Engineer with a solid foundation in JavaScript, TypeScript, Tailwind CSS, and the MERN stack (MongoDB, Express, React, Node.js). My background includes both academic and real-world experiences, from completing a Full Stack Web Development Bootcamp to earning a Bachelor’s degree in Computer Science.
+I am a Full-Stack Software Engineer with a solid foundation in **JavaScript, TypeScript, Tailwind CSS, and the MERN stack (MongoDB, Express, React, Node.js)**. My background includes both academic and real-world experiences, from completing a Full Stack Web Development Bootcamp to earning a Bachelor’s degree in Computer Science.
 
 As a musician, I understand the importance of mastering the fundamentals and dedicating oneself to their craft. To me, software engineering is an art form, where the greatest "composers" dedicate significant time and effort to excel. The journey to mastery is long but immensely rewarding.
 
