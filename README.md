@@ -40,8 +40,8 @@ My diverse professional experience spans client success management, musicianship
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Learning Typescript: A HUGE Learning Opportunity]([https://yourblog.com/how-i-built-a-chatbot-with-gpt-3](https://dadscript.com/blogs/665bfa39898eea5f1d6b79b6))
-- [Why I chose to get my computer science degree]([https://yourblog.com/understanding-docker-and-kubernetes](https://dadscript.com/blogs/6660f04e1d5bb533ed077cc2))
+- [Learning Typescript: A HUGE Learning Opportunity]([(https://dadscript.com/blogs/665bfa39898eea5f1d6b79b6)])
+- [Why I chose to get my computer science degree]([(https://dadscript.com/blogs/6660f04e1d5bb533ed077cc2)])
 <!-- BLOG-POST-LIST:END -->
 
 
