@@ -1,6 +1,4 @@
-# Hello, I'm Alan! 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=alanmmeachum&color=blue)
+# Hello there 👋, my name is Alan Meachum! 
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanmeachum)
@@ -9,14 +7,14 @@
 [![Blog](https://img.shields.io/badge/Blog-0A66C2?style=for-the-badge&logo=wordpress&logoColor=white)](https://www.dadscript.com)
 
 ## About Me
+![Profile Views](https://komarev.com/ghpvc/?username=alanmmeachum&color=blue)
+
 As a musician, I understand the importance of mastering the fundamentals and dedicating oneself to their craft. To me, software engineering is an art form, where the greatest "composers" dedicate significant time and effort to excel. The journey to mastery is long but immensely rewarding.
 
 I am a Full-Stack Software Engineer with a solid foundation in JavaScript, TypeScript, Tailwind CSS, and the MERN stack (MongoDB, Express, React, Node.js). My background includes both academic and real-world experiences, from completing a Full Stack Web Development Bootcamp to earning a Bachelor’s degree in Computer Science.
 
-My diverse professional experience spans client success management, musicianship, and project management. These roles have sharpened my collaboration and project execution skills. I thrive in environments that value continuous learning and teamwork, and I am eager to contribute to impactful projects with innovative solutions.
-
 - 🔭 I’m currently working on: 21DC attendance tracker for an after-school enrichment program
-- 🌱 I’m currently learning: Advanced TypeScript and GraphQL
+- 🌱 I’m currently learning: Advanced TypeScript and Advanced JavaScript
 - 👯 I’m looking to collaborate on: Open-source projects and innovative web applications
 - 🤔 I’m looking for help with: Implementing design patterns
 - 💬 Ask me about: JavaScript, TypeScript, MERN stack, and project management
