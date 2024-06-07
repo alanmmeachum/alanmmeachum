@@ -1,6 +1,12 @@
 # Hello, I'm Alan! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=alanmmeachum&color=blue)
+
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanmeachum)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanmmeachum@outlook.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://www.dadscript.com/portfolio)
+[![Blog](https://img.shields.io/badge/Blog-0A66C2?style=for-the-badge&logo=wordpress&logoColor=white)](https://www.dadscript.com)
 
 ## About Me
 As a musician, I understand the importance of mastering the fundamentals and dedicating oneself to their craft. To me, software engineering is an art form, where the greatest "composers" dedicate significant time and effort to excel. The journey to mastery is long but immensely rewarding.
@@ -25,16 +31,12 @@ My diverse professional experience spans client success management, musicianship
 - Tools: ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) 
 
 ## GitHub Stats
-![Alan Meachum GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
+![Alan Meachum GitHub Stats](https://github-readme-stats.vercel.app/api?username=alanmmeachum&show_icons=true&hide_border=true)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alanmmeachum&layout=compact&hide_border=true)
 
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanmeachum)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanmmeachum@outlook.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://www.dadscript.com/portfolio)
-[![Blog](https://img.shields.io/badge/Blog-0A66C2?style=for-the-badge&logo=wordpress&logoColor=white)](https://www.dadscript.com)
+
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
